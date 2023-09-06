@@ -1,0 +1,13 @@
+GET http://localhost:8878/toto
+
+###
+GET http://localhost:8878/mail
+
+###
+GET http://localhost:8878/random-between/1/10
+
+###
+GET http://localhost:8878/simplon/logo
+
+###
+GET http://localhost:8878/simplon/web
