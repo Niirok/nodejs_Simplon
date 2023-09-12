@@ -1,7 +1,7 @@
-GET nodejs-simplon.vercel.app/toto
+GET nodejs-simplon-fxj2jabrt-niirok.vercel.app/toto
 
 ###
-GET http://localhost:8878/mail
+GET nodejs-simplon-fxj2jabrt-niirok.vercel.app/mail
 
 ###
 GET http://localhost:8878/random-between/1/10
