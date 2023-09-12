@@ -1,4 +1,4 @@
-GET http://localhost:8878/toto
+GET nodejs-simplon.vercel.app/toto
 
 ###
 GET http://localhost:8878/mail
