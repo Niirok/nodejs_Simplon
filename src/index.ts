@@ -91,6 +91,10 @@ app.get('/toto', (req, res) => {
   res.send('Hello World!')
 })
 
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
+
 app.get('/tata', (req, res) => {
   res.send(JSON.stringify(p2))
 })
